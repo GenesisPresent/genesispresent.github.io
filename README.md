@@ -1,4 +1,4 @@
-.g
+test
 ### Command Install
 
 ```
